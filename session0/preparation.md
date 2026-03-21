@@ -25,6 +25,14 @@ From within a new Jupyter Notebook install [bia-bob](https://github.com/haeslein
 !pip install bia-bob
 ```
 
+## AI-integration in Positron (for R-users, optional)
+
+Install the [Positron App](https://positron.posit.co/) in a recent version and activate the AI assitant:
+
+![](positron1.png)
+
+Note: When chatting with this system, your prompts are submitted to a remote provider and you may not know what they do with your data. Be careful and do not enter private or secret research information.
+
 ## Install local language models (optional)
 
 For technically interested participants, these optional steps could additionally be useful:

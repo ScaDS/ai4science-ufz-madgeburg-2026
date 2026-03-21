@@ -1,10 +1,12 @@
 # Searching Documents
 
-Use various AI chat systems to answer questions about documents.
+Use various AI chat systems to answer questions about given documents.
 
 ## Task
 
-Work in groups with a shared document ([e.g., in the cloud storage](https://speicherwolke.uni-leipzig.de/index.php/login) or [Google Docs](https://docs.google.com/)). Formulate a prompt together and test various AI chat systems such as:
+Use one of these AI chat systems:
+* [Helmholtz Blablador](https://helmholtz-blablador.fz-juelich.de/) (academic provider)
+* [GWDG / Chat AI / Kisski of the Academic Cloud](https://chat-ai.academiccloud.de/) (academic provider)
 * [OpenAI / ChatGPT](https://chatgpt.com/)
 * [Anthropic / Claude](https://claude.ai/)
 * [You.com](https://you.com/ari)
@@ -13,21 +15,18 @@ Work in groups with a shared document ([e.g., in the cloud storage](https://spei
 
 In generated responses, check the source citations and compare how accurately different systems answer such questions.
 
-## Example
+## Example 1
 
-Download the [Professional Ethical Guidelines for Psychologists](https://www.dgps.de/fileadmin/user_upload/PDF/Berufsetische_Richtlinien/BER-Foederation-20230426-Web-1.pdf) and submit the document to ChatGPT. Ask about specific content and
+Download the Paper [Where should hydrology go? An early-career perspective on the next IAHS ScientificDecade: 2023–2032](https://www.tandfonline.com/doi/full/10.1080/02626667.2023.2170754#abstract) by Hateren et al. (licensed CC-BY 4.0) and submit the document to the Chat App of your choice. Ask about specific content such as:
 
-To get started, you can use this prompt:
-```
-A colleague recently criticized me very unfriendly at a conference 
-regarding my latest publication. Which guideline might he have 
-violated? I need the page in the BER... document where this is 
-stated accordingly.
-```
+* What are the major challenges for hydrologists in the current decade?
+
+## Example 2
+
+Download the Project Proposal [NFDI4BioImage](https://zenodo.org/records/13168693) by Moore et al. (licensed CC-BY 4.0) and submit the document to the Chat App of your choice. Ask about specific content such as:
+
+* What is Dr. Haase responsible for in the project?
 
 ## Note:
 
 Please note that you are not authorized to upload documents containing personal data to these systems. You also may not use confidential documents such as third-party funding applications that you want to review.
-
-## Spoiler
-[Spoiler](https://chatgpt.com/share/68ce5872-5794-8001-bbbf-53c63edbbf09)
