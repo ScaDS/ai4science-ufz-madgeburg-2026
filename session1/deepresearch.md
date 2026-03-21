@@ -1,7 +1,8 @@
-# Deep Research
+# Web Search and Deep Research
 
-Some language model providers offer deep research, which is software that calls up websites in the background, accumulates information, and responds with a comprehensive report, sometimes with a time delay.
-
+Some language model providers offer web search and deep research, which is software that calls up websites in the background, accumulates information, and responds with a comprehensive report, sometimes with a time delay.
+* [Helmholtz Blablador](https://helmholtz-blablador.fz-juelich.de/) (academic provider)
+* [GWDG / Chat AI / Kisski of the Academic Cloud](https://chat-ai.academiccloud.de/) (academic provider)
 * [OpenAI / ChatGPT](https://chatgpt.com/)
 * [Anthropic / Claude](https://claude.ai/)
 * [You.com](https://you.com/ari)
