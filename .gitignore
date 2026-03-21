@@ -3,3 +3,5 @@ _build/
 .idea
 
 generator.ipynb
+
+.env

@@ -25,6 +25,7 @@ parts:
     - file: session2/chatbot.md
     - file: session2/searching_documents.md
     - file: session2/ai_data_analysis.md
+    - file: session2/bia-bob-demo.ipynb
 
   - caption: Responsible AI and legal aspects
     chapters:
