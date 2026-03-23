@@ -6,44 +6,46 @@ Slides are available [online]() for reuse. Materials on this website and slides 
 
 ## Program March 27th 2026
 
-9:30 - 10:15 [Introduction and Fundamentals](session1/AIST1_Intro.pdf)
+9:00 - 9:45 [Introduction and Fundamentals](session1/AIST1_Intro.pdf)
 
-* Introduction to Artificial Intelligence, AI systems and language models
+* Introduction to Artificial Intelligence, AI systems, AI agents and language models
 * Application areas and limitations of AI in text generation
 * Prompt engineering
-* Prompting with large context
+* AI-assisted literature research
 
-10:15 - 11:15 Exercises
+9:45 - 10:45 Exercises
 
 * [Speech Generation](session1/speech-generation.md)
 * [Deep Research](session1/deepresearch.md)
-* [Knowledge distillation](session1/distillation.md)
 * [Video Overviews](session1/notebooklm.md)
 
-11:15 - 11:30 Break
+10:45 - 11:00 Break
 
-11:30 - 12:00 [Advanced Usage](session2/AIST2_Advanced.pdf)
+11:00 - 12:15 [Advanced Usage](session2/AIST2_Advanced.pdf)
 
-* Knowledge distillation
 * Retrieval-Augmented Generation
+* Text Analysis / Information Retrieval
+* Vision Language Models
+* Data Analysis Code-Generation
 
 12:15 - 13:00 Lunch break
 
-13:00 - 13:45 Exercises
+13:00 - 14:00 Exercises
 
 * [AI-supported Consulting / Implementation of your own ChatBot](session2/chatbot.md)
+* [Writing Proposals](session2/writing-proposals.md)
 * [Searching through Documents](session2/searching_documents.md)
 * [Data analysis](session2/ai_data_analysis.md)
+* [Code Generation in Jupyter](session2/bia-bob-demo.ipynb)
+* [Code Generation in R/Positron](session2/generating-r-code.md)
 
-13:45 - 14:00 Coffee break
-
-14:00 - 14:45 [Responsible Use of Generative AI and Legal Framework](session3/AIST3_ResponsibleAI.pdf)
+14:00 - 15:00 [Responsible Use of Generative AI and Legal Framework](session3/AIST3_ResponsibleAI.pdf)
 
 * Data protection compliant usage
 * Copyright
 * EU AI Act
 
-14:45 - 15:30 Exercise, Discussion and free experimentation
+15:00 - 15:30 Exercise, Discussion and free experimentation
 
 * [AI Detectors](session3/ai-detectors.md)
 * [Bias Detection](session3/bias_detection.md)

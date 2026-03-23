@@ -13,7 +13,7 @@ parts:
     - url: https://github.com/ScaDS/ai4science-ufz-magdeburg-2026/blob/main/session1/AIST1_Intro.pdf?raw=True
       title: Slides
     - file: session1/speech-generation.md
-    - file: session1/antrag_prompt.md
+    #- file: session1/antrag_prompt.md
     - file: session1/deepresearch.md
     #- file: session1/distillation.md
     - file: session1/notebooklm.md
