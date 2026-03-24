@@ -39,7 +39,7 @@ Slides will available online for reuse. Materials on this website and slides can
 * [Code Generation in Jupyter](session2/bia-bob-demo.ipynb)
 * [Code Generation in R/Positron](session2/generating-r-code.md)
 
-14:00 - 15:00 [Responsible Use of Generative AI and Legal Framework](session3/AIST3_ResponsibleAI.pdf)
+14:00 - 15:00 [Responsible Use of Generative AI and Legal Framework](session3/AIST3_Ethics_Legal_Framework.pdf)
 
 * Data protection compliant usage
 * Copyright
