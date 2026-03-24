@@ -2,7 +2,7 @@
 
 In this AI training for scientists, we will learn how Generative Artificial Intelligence works, try out various AI systems, and learn how to use such systems properly. We will also dive into responsible AI usage and legal constraints.
 
-Slides are available [online]() for reuse. Materials on this website and slides can be reused under the conditions of the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+Slides will available online for reuse. Materials on this website and slides can be reused under the conditions of the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
 ## Program March 27th 2026
 
