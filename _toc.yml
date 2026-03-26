@@ -49,8 +49,8 @@ parts:
 
   - caption: Appendix
     chapters:
-    #- url: https://doi.org/10.5281/zenodo.17799126
-    #  title: Slides as PPTx (Zenodo)
+    - url: https://doi.org/10.5281/zenodo.19239480
+      title: Slides as PPTx (Zenodo)
     - url: https://creativecommons.org/licenses/by/4.0/deed.en
       title: "License: CC-BY 4.0"
     - file: imprint.md

@@ -8,4 +8,11 @@ In this exercise, we will create a video overview of a scientific publication. F
 
 ![](notebooklm.png)
 
+## Additional exercises
+
+Also try out to generate
+* A Podcast,
+* Slides
+* A Mindmap
+
 This will take a while. Come back in the next exercise block and watch the video. Does everything that is said there make sense?
